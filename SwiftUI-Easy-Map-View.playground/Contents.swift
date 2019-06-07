@@ -1,9 +1,9 @@
-//: A UIKit based Playground for presenting user interface
-  
 import SwiftUI
 import PlaygroundSupport
 import MapKit
 
+
+// Root view
 struct ContentView : View {
 	var body : some View {
 		NavigationView {
